@@ -37,7 +37,7 @@ for file in os.listdir(data_dir):
 #              'GCA', 'Cmp', 'Att', 'Cmp%', 'Prog', 'Succ', 'Def Pen', 'Def 3rd', 'Mid 3rd', 'Att 3rd', 'Att Pen', 'Live', 'Succ%', 'Mis', 'Dis', 'Rec']
 stat_cols = ['Min', 'Sh', 'SoT', 'xG', 'npxG',
              'xAG', 'SCA', 'GCA', 'Att 3rd', 'Att Pen']
-stats = pd.DataFrame(columns=['Name', 'Team', 'Position', 'Games'] + stat_cols)
+stats = pd.DataFrame(columns=['Name', 'Price', 'Team', 'Position', 'Games'] + stat_cols)
 
 # average each players stats since the start date and consolidate data
 for player_id, data in dfs.items():
@@ -49,12 +49,14 @@ for player_id, data in dfs.items():
     i = len(stats.index)
     player_info = players[player_id]
     stats.loc[i, 'Name'] = player_info['web_name']
+    stats.loc[i, 'Price'] = player_info['price']
     stats.loc[i, 'Team'] = player_info['team']
     stats.loc[i, 'Position'] = player_info['position']
     stats.loc[i, 'Games'] = num_games
     stats.loc[i, stat_cols] = data.loc[data['Date']
                                        >= start_date, stat_cols].mean()
 stats.fillna(0, inplace=True)
+stats = stats.round(2)
 
 # export to Google sheets
 sheet_id = '1pP4l3CdXZjtuWzh2c_OXC82UYngpqoGW7D-4VwVgIY8'
