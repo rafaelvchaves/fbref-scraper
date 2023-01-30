@@ -149,6 +149,7 @@ hardcoded_conversions = {
     277: '77e84962',  # Thiago Alcantara
     311: '3eb22ec9',  # Bernardo Silva
     589: 'e6af02e0',  # Matheus Nunes
+    459: '3e9e06cb',  # Craig Dawson
 }
 
 
