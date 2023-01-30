@@ -1,0 +1,15 @@
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec
+2022-09-17,Matchweek 8,Away,L 2–6,Leicester City,Tottenham,Y,90,0,0,0,0,0,0,0,0,95,1,1,1,0.0,0.0,0.1,1,0,77,86,89.5,2,0,7,31,64,2,1,95,,0,1,74
+2022-10-03,Matchweek 9,Home,W 4–0,Leicester City,Nott'ham Forest,Y,90,0,0,0,0,1,0,0,0,76,0,1,0,0.1,0.1,0.0,1,0,56,70,80.0,2,0,13,38,36,2,1,76,,1,0,53
+2022-10-08,Matchweek 10,Away,L 1–2,Leicester City,Bournemouth,Y,90,0,0,0,0,1,0,0,0,116,7,2,3,0.2,0.2,0.2,1,0,87,96,90.6,2,0,14,67,46,3,2,116,,3,0,84
+2022-10-15,Matchweek 11,Home,D 0–0,Leicester City,Crystal Palace,Y,90,0,0,0,0,0,0,0,0,93,3,3,1,0.0,0.0,0.0,0,0,79,86,91.9,5,0,5,39,53,1,0,93,,1,0,72
+2022-10-20,Matchweek 12,Home,W 2–0,Leicester City,Leeds United,Y,90,0,0,0,0,0,0,0,0,85,7,0,2,0.0,0.0,0.0,0,0,59,70,84.3,0,1,9,56,29,0,0,85,100.0,2,1,60
+2022-10-23,Matchweek 13,Away,W 4–0,Leicester City,Wolves,Y,90,0,0,0,0,0,0,1,0,53,2,0,2,0.0,0.0,0.0,0,0,35,41,85.4,1,0,20,40,13,0,0,53,,0,0,32
+2022-10-29,Matchweek 14,Home,L 0–1,Leicester City,Manchester City,Y,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,44,51,86.3,1,0,16,40,15,0,0,55,,1,0,43
+2022-11-05,Matchweek 15,Away,W 2–0,Leicester City,Everton,Y,90,0,0,0,0,1,1,0,0,85,2,0,1,0.1,0.1,0.0,1,0,64,76,84.2,3,0,10,40,43,2,2,85,,0,0,61
+2022-11-12,Matchweek 16,Away,W 2–0,Leicester City,West Ham,Y,90,0,0,0,0,0,0,0,0,72,3,2,2,0.0,0.0,0.0,0,0,43,57,75.4,1,0,14,45,27,0,0,72,0.0,0,0,44
+2022-12-26,Matchweek 17,Home,L 0–3,Leicester City,Newcastle Utd,Y,90,0,0,0,0,1,0,0,0,106,0,2,0,0.0,0.0,0.1,1,0,83,97,85.6,5,0,10,46,57,3,0,106,0.0,0,0,79
+2022-12-30,Matchweek 18,Away,L 1–2,Leicester City,Liverpool,Y,90,0,0,0,0,0,0,0,0,73,2,1,2,0.0,0.0,0.0,0,0,46,57,80.7,2,0,21,56,17,1,1,73,,1,0,43
+2023-01-03,Matchweek 19,Home,L 0–1,Leicester City,Fulham,Y,90,0,0,0,0,0,0,0,0,99,2,0,0,0.0,0.0,0.0,0,0,82,93,88.2,9,0,14,40,57,4,0,99,,0,1,68
+2023-01-14,Matchweek 20,Away,L 0–2,Leicester City,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,98,1,2,0,0.0,0.0,0.0,0,0,79,88,89.8,2,0,17,69,29,0,0,98,,0,0,71
+2023-01-21,Matchweek 21,Home,D 2–2,Leicester City,Brighton,Y,90,0,0,0,0,0,0,0,0,61,1,0,4,0.0,0.0,0.0,0,0,46,52,88.5,1,1,10,34,27,0,0,61,100.0,0,0,44

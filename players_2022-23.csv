@@ -1,0 +1,335 @@
+id,first_name,second_name,web_name,team,position,fbref_id
+3,Granit,Xhaka,Xhaka,1,M,e61b8aee
+6,Thomas,Partey,Partey,1,M,529f49ab
+7,Martin,Ødegaard,Ødegaard,1,M,79300479
+8,Kieran,Tierney,Tierney,1,D,fce2302c
+10,Benjamin,White,White,1,D,35e413f1
+11,Eddie,Nketiah,Nketiah,1,F,a53649b7
+13,Bukayo,Saka,Saka,1,M,bc7dc64d
+14,Takehiro,Tomiyasu,Tomiyasu,1,D,b3af9be1
+16,Gabriel,dos Santos Magalhães,Gabriel,1,D,67ac5bb8
+19,Gabriel,Martinelli Silva,Martinelli,1,M,48a5a5d6
+26,William,Saliba,Saliba,1,D,972aeb2a
+28,Gabriel,Fernando de Jesus,Jesus,1,F,b66315ae
+111,Leandro,Trossard,Trossard,1,M,
+313,Oleksandr,Zinchenko,Zinchenko,1,D,51cf8561
+29,Philippe,Coutinho Correia,Coutinho,2,M,0ef89a37
+33,Lucas,Digne,Digne,2,D,1b84dbe1
+37,John,McGinn,McGinn,2,M,90f91999
+39,Tyrone,Mings,Mings,2,D,8397a50c
+40,Ollie,Watkins,Watkins,2,F,aed3a70f
+42,Emiliano,Buendía Stati,Buendía,2,M,66b76d44
+43,Matty,Cash,Cash,2,D,2389cdc2
+44,Ezri,Konsa Ngoyo,Konsa,2,D,0313a347
+45,Leon,Bailey,Bailey,2,M,3a233281
+46,Douglas Luiz,Soares de Paulo,Douglas Luiz,2,M,6f7d826d
+47,Jacob,Ramsey,Ramsey,2,M,1544f145
+53,Boubacar,Kamara,Kamara,2,M,cc77354e
+479,Leander,Dendoncker,Dendoncker,2,M,5a7301ae
+538,Ashley,Young,Young,2,D,be927d03
+57,Adam,Smith,Smith,3,D,20b104bc
+59,Ryan,Fredericks,Fredericks,3,D,c067631c
+62,Kieffer,Moore,Moore,3,F,01ce9e70
+64,Jefferson,Lerma Solís,Lerma,3,M,9b5ce51a
+65,Jack,Stacey,Stacey,3,D,558807c0
+66,Dominic,Solanke,Solanke,3,F,e77dc3b2
+67,Lewis,Cook,Cook,3,M,2afc7272
+68,Ben,Pearson,Pearson,3,M,a6b461e7
+69,Ryan,Christie,Christie,3,M,26ce2263
+70,Philip,Billing,Billing,3,M,d328a254
+71,Chris,Mepham,Mepham,3,D,fed96827
+73,Lloyd,Kelly,Kelly,3,D,f31def1e
+75,Jaidon,Anthony,Anthony,3,M,e4238fb1
+76,Jordan,Zemura,Zemura,3,D,e8271ad9
+535,Marcus,Tavernier,Tavernier,3,M,5c0da4a4
+576,Marcos,Senesi,Senesi,3,D,35141f4c
+78,Pontus,Jansson,Jansson,4,D,172e52d8
+79,Christian,Nørgaard,Nørgaard,4,M,df0a4c90
+80,Ivan,Toney,Toney,4,F,e09f279b
+83,Josh,Dasilva,Dasilva,4,M,60344e4f
+84,Kristoffer,Ajer,Ajer,4,D,a8c0acb7
+85,Rico,Henry,Henry,4,D,8a3c1dc7
+86,Vitaly,Janelt,Janelt,4,M,8449d35e
+88,Mathias,Jensen,Jensen,4,M,0f134faf
+89,Yoane,Wissa,Wissa,4,M,2500cef9
+90,Mads,Roerslev Rasmussen,Roerslev,4,D,57c94db2
+92,Ethan,Pinnock,Pinnock,4,D,e541326e
+93,Frank,Onyeka,Onyeka,4,M,2944f86f
+94,Shandon,Baptiste,Baptiste,4,M,2886c9b5
+95,Bryan,Mbeumo,Mbeumo,4,F,6afaebf2
+510,Aaron,Hickey,Hickey,4,D,1780bb4a
+515,Keane,Lewis-Potter,Lewis-Potter,4,M,41f08ac8
+526,Ben,Mee,Mee,4,D,8df7a2fb
+595,Mathias,Jorgensen,Zanka,4,D,0db5d2c8
+101,Adam,Lallana,Lallana,5,M,99813635
+103,Danny,Welbeck,Welbeck,5,F,ce5143da
+104,Pascal,Groß,Groß,5,M,8aec0537
+106,Lewis,Dunk,Dunk,5,D,282f75f3
+107,Solly,March,March,5,M,bb5fbd2b
+108,Adam,Webster,Webster,5,D,c40b6180
+109,Joël,Veltman,Veltman,5,D,dad4b285
+114,Tariq,Lamptey,Lamptey,5,D,f4e433d4
+116,Alexis,Mac Allister,Mac Allister,5,M,83d074ff
+120,Moisés,Caicedo Corozo,Caicedo,5,M,16264a81
+124,Kaoru,Mitoma,Mitoma,5,M,74618572
+559,Levi,Colwill,Colwill,5,D,700783e7
+586,Pervis,Estupiñán,Estupiñán,5,D,d38fdf53
+112,Marc,Cucurella Saseta,Cucurella,6,D,1daec722
+127,César,Azpilicueta,Azpilicueta,6,D,53cad200
+128,Thiago,Emiliano da Silva,Thiago Silva,6,D,86e7deaf
+130,Jorge Luiz,Frello Filho,Jorginho,6,M,45db685d
+132,Mateo,Kovacic,Kovacic,6,M,79c0821a
+135,Hakim,Ziyech,Ziyech,6,M,6622454d
+136,Ruben,Loftus-Cheek,Loftus-Cheek,6,M,e97fd090
+139,Ben,Chilwell,Chilwell,6,D,d2424d1b
+140,Christian,Pulisic,Pulisic,6,M,1bf33a9a
+141,Trevoh,Chalobah,Chalobah,6,D,5515376c
+142,Mason,Mount,Mount,6,M,9674002f
+145,Kai,Havertz,Havertz,6,F,fed7cb61
+146,Reece,James,James,6,D,1265a93a
+148,Conor,Gallagher,Gallagher,6,M,c2731c10
+150,Armando,Broja,Broja,6,F,97220da2
+272,Wesley,Fofana,W.Fofana,6,D,132a82f1
+304,Raheem,Sterling,Sterling,6,M,b400bde0
+520,Kalidou,Koulibaly,Koulibaly,6,D,da974c7b
+616,Denis,Zakaria,Zakaria,6,M,384d58d9
+617,Pierre-Emerick,Aubameyang,Aubameyang,6,F,d5dd5f1f
+661,Lewis,Hall,Hall,6,M,da011f18
+156,Joel,Ward,Ward,7,D,8a7ff278
+157,Nathaniel,Clyne,Clyne,7,D,0442183b
+158,Luka,Milivojevic,Milivojevic,7,M,2ce2508a
+159,Jordan,Ayew,Ayew,7,M,da052c14
+160,Wilfried,Zaha,Zaha,7,M,b2bc3b1f
+161,Jeffrey,Schlupp,Schlupp,7,M,3312f911
+165,Joachim,Andersen,Andersen,7,D,e34fc66d
+166,Odsonne,Edouard,Edouard,7,F,0562b7f1
+167,Marc,Guéhi,Guéhi,7,D,d0706b27
+168,Jean-Philippe,Mateta,Mateta,7,F,50e6dc35
+169,Eberechi,Eze,Eze,7,M,ae4fc6a4
+170,Tyrick,Mitchell,Mitchell,7,D,5cbd1eb0
+171,Michael,Olise,Olise,7,M,c4486bac
+514,Cheick,Doucouré,C.Doucouré,7,M,ce4f40c7
+110,Neal,Maupay,Maupay,8,F,4bcf39f6
+178,Seamus,Coleman,Coleman,8,D,0420d84f
+186,Alex,Iwobi,Iwobi,8,M,6ca5ec4b
+189,Demarai,Gray,Gray,8,M,4468ec10
+190,Tom,Davies,Davies,8,M,9228b07c
+191,Dominic,Calvert-Lewin,Calvert-Lewin,8,F,59e6e5bf
+192,Mason,Holgate,Holgate,8,D,d0042ab9
+194,Vitalii,Mykolenko,Mykolenko,8,D,30d4a2e5
+195,Anthony,Gordon,Gordon,8,M,2bd83368
+197,Nathan,Patterson,Patterson,8,D,230f0471
+199,James,Tarkowski,Tarkowski,8,D,15ea812b
+475,Conor,Coady,Coady,8,D,2928dca2
+534,Dwight,McNeil,McNeil,8,M,fc15fb84
+577,Amadou,Onana,Onana,8,M,828657ff
+611,Idrissa,Gueye,Gueye,8,M,72c812f3
+200,Tom,Cairney,Cairney,9,M,a8748947
+201,Tim,Ream,Ream,9,D,28b40c9c
+204,Neeskens,Kebano,Kebano,9,M,18b999f4
+205,Bobby,De Cordova-Reid,De Cordova-Reid,9,M,0f7533cd
+209,Tosin,Adarabioyo,Tosin,9,D,c81d773d
+210,Aleksandar,Mitrović,Mitrović,9,F,3925dbd6
+211,Harrison,Reed,Reed,9,M,803ae100
+212,Harry,Wilson,Wilson,9,M,c6dc9ecd
+215,Kenny,Tete,Tete,9,D,77d7c96f
+217,Antonee,Robinson,Robinson,9,D,289601e6
+220,João,Palhinha Gonçalves,Palhinha,9,M,a78ff07f
+231,Daniel,James,James,9,M,c931d9f9
+346,Andreas,Hoelgebaum Pereira,Andreas,9,M,6639e500
+470,Issa,Diop,Diop,9,D,a712ca2b
+614,Willian,Borges da Silva,Willian,9,M,8b9ebd03
+618,Carlos Vinícius,Alves Morais,Vinícius,9,F,8b529245
+249,Jonny,Evans,Evans,10,D,f8fcd2a5
+252,Nampalys,Mendy,Mendy,10,M,1598599e
+255,Jamie,Vardy,Vardy,10,F,45963054
+257,Daniel,Amartey,Amartey,10,D,1a4ef233
+258,Timothy,Castagne,Castagne,10,D,197640fd
+259,Youri,Tielemans,Tielemans,10,M,56f7a928
+260,Ayoze,Pérez,Pérez,10,M,819aa8e7
+261,James,Maddison,Maddison,10,M,ee38d9c5
+262,Kelechi,Iheanacho,Iheanacho,10,F,c92e1a31
+264,Harvey,Barnes,Barnes,10,M,3ea50f67
+265,Wilfred,Ndidi,Ndidi,10,M,6b47c5db
+266,Kiernan,Dewsbury-Hall,Dewsbury-Hall,10,M,5c74c0f5
+268,James,Justin,Justin,10,D,fb614c44
+269,Boubakary,Soumaré,Soumaré,10,M,ae59b359
+270,Luke,Thomas,Thomas,10,D,fc027d02
+271,Patson,Daka,Daka,10,F,ca45605e
+549,Dennis,Praet,Praet,10,M,86695068
+612,Wout,Faes,Faes,10,D,9c221d14
+221,Liam,Cooper,Cooper,11,D,dc64b8b3
+222,Luke,Ayling,Ayling,11,D,420d7c7d
+225,Rodrigo,Moreno,Rodrigo,11,M,1fb1c435
+227,Patrick,Bamford,Bamford,11,F,93feac6e
+228,Diego,Llorente,Llorente,11,D,bba30585
+230,Robin,Koch,Koch,11,D,ea6bc03a
+233,Jack,Harrison,Harrison,11,M,aa849a12
+235,Pascal,Struijk,Struijk,11,D,f4d296e4
+237,Sam,Greenwood,Greenwood,11,F,f3354c07
+240,Crysencio,Summerville,Summerville,11,M,df04eb4b
+244,Rasmus,Kristensen,Kristensen,11,D,39769cff
+245,Marc,Roca Junqué,Roca,11,M,da27e268
+246,Brenden,Aaronson,Aaronson,11,M,5bc43860
+506,Tyler,Adams,Adams,11,M,2b09d998
+508,Luis,Sinisterra Lucumí,Sinisterra,11,M,8e16dd48
+619,Wilfried,Gnonto,Gnonto,11,F,75fdd638
+274,James,Milner,Milner,12,M,2f90f6b8
+275,Jordan,Henderson,Henderson,12,M,935e6b8f
+276,Joel,Matip,Matip,12,D,b217ef29
+277,Thiago,Alcántara do Nascimento,Thiago,12,M,77e84962
+278,Alex,Oxlade-Chamberlain,Chamberlain,12,M,38c7feef
+279,Roberto,Firmino,Firmino,12,F,4c370d81
+280,Virgil,van Dijk,Van Dijk,12,D,e06683ca
+282,Fabio Henrique,Tavares,Fabinho,12,M,7f3b388c
+283,Mohamed,Salah,Salah,12,M,e342ad68
+284,Andrew,Robertson,Robertson,12,D,2e4f5f03
+285,Trent,Alexander-Arnold,Alexander-Arnold,12,D,cd1acf9d
+286,Joseph,Gomez,Gomez,12,D,7a11550b
+290,Ibrahima,Konaté,Konaté,12,D,5ed9b537
+292,Konstantinos,Tsimikas,Tsimikas,12,D,f315ca93
+293,Luis,Díaz,Luis Díaz,12,M,4a1a9578
+294,Harvey,Elliott,Elliott,12,M,c8387671
+296,Fábio,Freitas Gouveia Carvalho,Carvalho,12,M,966e28d0
+297,Darwin,Núñez Ribeiro,Darwin,12,F,4d77b365
+299,Kyle,Walker,Walker,13,D,86dd77d1
+300,Ilkay,Gündogan,Gündogan,13,M,819b3158
+301,Kevin,De Bruyne,De Bruyne,13,M,e46012d4
+302,John,Stones,Stones,13,D,5eecec3d
+303,Riyad,Mahrez,Mahrez,13,M,892d5bb1
+305,Jack,Grealish,Grealish,13,M,b0b4fd3e
+306,João,Cancelo,Cancelo,13,D,bd6351cd
+308,Nathan,Aké,Aké,13,D,eaeca114
+309,Aymeric,Laporte,Laporte,13,D,119b9a8e
+311,Bernardo,Veiga de Carvalho e Silva,Bernardo,13,M,3eb22ec9
+312,Rúben,Gato Alves Dias,Dias,13,D,31c69ef1
+314,Phil,Foden,Foden,13,M,ed1e53f3
+315,Rodrigo,Hernandez,Rodri,13,M,6434f10d
+318,Erling,Haaland,Haaland,13,F,1f44ac21
+319,Julián,Álvarez,Álvarez,13,F,15ab5a2b
+573,Rico,Lewis,Lewis,13,D,b57e066e
+610,Manuel,Akanji,Akanji,13,D,89ac64a6
+326,Cristiano Ronaldo,dos Santos Aveiro,Ronaldo,14,F,
+329,Raphaël,Varane,Varane,14,D,9f8e9423
+330,Harry,Maguire,Maguire,14,D,d8931174
+331,Frederico,Rodrigues de Paula Santos,Fred,14,M,b853e0ad
+332,Luke,Shaw,Shaw,14,D,9c94165b
+333,Bruno,Borges Fernandes,Fernandes,14,M,507c7bdf
+335,Marcus,Rashford,Rashford,14,M,a1d5bd30
+337,Victor,Lindelöf,Lindelöf,14,D,f5deef4c
+338,Scott,McTominay,McTominay,14,M,d93c2511
+340,Jadon,Sancho,Sancho,14,M,dbf053da
+341,Aaron,Wan-Bissaka,Wan-Bissaka,14,D,9e525177
+342,Diogo,Dalot Teixeira,Dalot,14,D,d9565625
+344,Anthony,Elanga,Elanga,14,M,2fba6108
+345,Anthony,Martial,Martial,14,F,8b788c01
+504,Tyrell,Malacia,Malacia,14,D,6b6c793c
+519,Christian,Eriksen,Eriksen,14,M,980522ec
+533,Lisandro,Martínez,Martínez,14,D,bac46a10
+593,Carlos Henrique,Casimiro,Casemiro,14,M,4d224fe8
+609,Antony Matheus,dos Santos,Antony,14,M,99127249
+356,Callum,Wilson,Wilson,15,F,c596fcb0
+357,Kieran,Trippier,Trippier,15,D,21512407
+358,Dan,Burn,Burn,15,D,b2d31e83
+359,Ryan,Fraser,Fraser,15,M,d56543a0
+365,Jacob,Murphy,Murphy,15,M,de112b84
+366,Fabian,Schär,Schär,15,D,c8aa95da
+367,Matt,Targett,Targett,15,D,e514ab62
+368,Allan,Saint-Maximin,Saint-Maximin,15,M,2b16cb1a
+369,Miguel,Almirón Rejala,Almirón,15,M,862a1c15
+370,Sean,Longstaff,S.Longstaff,15,M,a2b105e0
+371,Joelinton Cássio,Apolinário de Lira,Joelinton,15,M,c17bfb65
+373,Joe,Willock,Willock,15,M,a3b03921
+374,Bruno,Guimarães Rodriguez Moura,Bruno Guimarães,15,M,82518f62
+377,Sven,Botman,Botman,15,D,ccce7025
+594,Alexander,Isak,Isak,15,F,8e92be30
+295,Neco,Williams,N.Williams,16,D,dd323728
+354,Chris,Wood,Wood,16,F,4e9a0555
+379,Steve,Cook,Cook,16,D,3e5e4e63
+385,Scott,McKenna,McKenna,16,D,4e5a4cbc
+387,Ryan,Yates,Yates,16,M,c1fe2a48
+388,Joe,Worrall,Worrall,16,D,a5212312
+394,Brennan,Johnson,Johnson,16,F,0cd31129
+397,Taiwo,Awoniyi,Awoniyi,16,F,e5478b87
+474,Willy,Boly,Boly,16,D,a4ac4b8f
+493,Morgan,Gibbs-White,Gibbs-White,16,M,32f60ed8
+523,Harry,Toffolo,Toffolo,16,D,a105d46a
+524,Lewis,O'Brien,O'Brien,16,M,089667a5
+527,Jesse,Lingard,Lingard,16,M,810e3c74
+536,Orel,Mangala,Mangala,16,M,a572e291
+582,Remo,Freuler,Freuler,16,M,98d2c2c4
+583,Cheikhou,Kouyaté,Kouyaté,16,M,8d3c902d
+585,Emmanuel,Dennis,Dennis,16,F,2c44a35d
+602,Renan Augusto,Lodi dos Santos,Renan Lodi,16,D,ed9f7cfe
+628,Serge,Aurier,Aurier,16,D,5c2b4f07
+21,Ainsley,Maitland-Niles,Maitland-Niles,17,M,e3a5814e
+321,Roméo,Lavia,Lavia,17,M,ecad9aa5
+405,Stuart,Armstrong,S.Armstrong,17,M,97333cf5
+406,Mohamed,Elyounoussi,Elyounoussi,17,M,68dc0dac
+407,James,Ward-Prowse,Ward-Prowse,17,M,3515d404
+408,Adam,Armstrong,A.Armstrong,17,F,68c720b5
+409,Kyle,Walker-Peters,Walker-Peters,17,D,984a5a64
+411,Che,Adams,Adams,17,F,f2bf1b0f
+413,Lyanco,Silveira Neves Vojnovic,Lyanco,17,D,b5bf1770
+416,Ibrahima,Diallo,Diallo,17,M,11ff3d56
+417,Romain,Perraud,Perraud,17,D,6dfd8f05
+418,Moussa,Djenepo,Djenepo,17,M,254147d4
+420,Mohammed,Salisu,Salisu,17,D,0b33f6ad
+423,Armel,Bella-Kotchap,Bella-Kotchap,17,D,a39d11bc
+512,Joe,Ayodele-Aribo,Aribo,17,M,328f7d51
+528,Sékou,Mara,Mara,17,F,3544641e
+623,Duje,Caleta-Car,Caleta-Car,17,D,94f8d10c
+624,Samuel,Edozie,Edozie,17,M,007414dd
+427,Harry,Kane,Kane,18,F,21a66f6a
+428,Son,Heung-min,Son,18,M,92e7e919
+429,Matt,Doherty,Doherty,18,D,d557d734
+430,Eric,Dier,Dier,18,D,ac861941
+432,Ben,Davies,Davies,18,D,44781702
+433,Pierre-Emile,Højbjerg,Højbjerg,18,M,8b04d6c1
+435,Davinson,Sánchez,Sánchez,18,D,da7b447d
+436,Ryan,Sessegnon,R.Sessegnon,18,D,6aa3e78b
+440,Rodrigo,Bentancur,Bentancur,18,M,3b8674e6
+443,Cristian,Romero,Romero,18,D,a3d94a58
+444,Yves,Bissouma,Bissouma,18,M,6c203af0
+445,Emerson,Leite de Souza Junior,Emerson Royal,18,D,df8b52a5
+446,Dejan,Kulusevski,Kulusevski,18,M,df3cda47
+448,Ivan,Perišić,Perišić,18,D,6fe90922
+454,Richarlison,de Andrade,Richarlison,18,F,fa031b34
+513,Clément,Lenglet,Lenglet,18,D,4f28a6ff
+30,Danny,Ings,Ings,19,F,07802f7f
+456,Angelo,Ogbonna,Ogbonna,19,D,74b2cd7e
+457,Aaron,Cresswell,Cresswell,19,D,4f974391
+458,Michail,Antonio,Antonio,19,F,ac05f970
+461,Kurt,Zouma,Zouma,19,D,ce4246f5
+463,Vladimir,Coufal,Coufal,19,D,fdf3cb77
+464,Saïd,Benrahma,Benrahma,19,M,5a04fd92
+465,Jarrod,Bowen,Bowen,19,M,79c84d1c
+467,Declan,Rice,Rice,19,M,1c7012b8
+468,Tomas,Soucek,Soucek,19,M,6613c819
+469,Pablo,Fornals Malla,Fornals,19,M,82927de4
+471,Ben,Johnson,Johnson,19,D,9319781b
+472,Nayef,Aguerd,Aguerd,19,D,288e1e13
+509,Flynn,Downes,Downes,19,M,69fdb896
+529,Gianluca,Scamacca,Scamacca,19,F,8790f988
+545,Emerson,Palmieri dos Santos,Emerson,19,D,
+588,Thilo,Kehrer,Kehrer,19,D,51dbeea9
+603,Lucas,Tolentino Coelho de Lima,Paquetá,19,M,9b6f7fd5
+459,Craig,Dawson,Dawson,20,D,
+476,Raúl,Jiménez,Jiménez,20,F,b561db50
+477,Jonathan,Castro Otto,Jonny,20,D,e28868f3
+480,Rúben,da Silva Neves,Neves,20,M,44bfb6c5
+481,Hwang,Hee-chan,Hwang,20,M,169fd162
+482,Nélson,Cabral Semedo,Semedo,20,D,d04b94db
+483,Daniel,Castelo Podence,Podence,20,M,7fcc71d8
+484,Max,Kilman,Kilman,20,D,d0f72bf1
+486,Pedro,Lomba Neto,Neto,20,M,7ba2eaa9
+487,Rayan,Aït-Nouri,Aït-Nouri,20,D,9b398aea
+489,Toti António,Gomes,Toti,20,D,
+491,Adama,Traoré Diarra,Adama,20,M,9a28eba4
+503,João Filipe Iria,Santos Moutinho,Moutinho,20,M,f5a00fa4
+516,Nathan,Collins,Collins,20,D,a8c19eb8
+558,Hugo,Bueno López,Bueno,20,D,bfc3b3a0
+579,Gonçalo Manuel,Ganchinho Guedes,Guedes,20,M,
+589,Matheus Luiz,Nunes,Matheus,20,M,
+625,Diego,Da Silva Costa,Diego Costa,20,F,a190d597
+629,Boubacar,Traoré,Traoré,20,M,999ceb5f

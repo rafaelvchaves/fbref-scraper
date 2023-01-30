@@ -1,0 +1,20 @@
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec
+2022-08-06,Matchweek 1,Home,W 4–1,Tottenham,Southampton,Y,85,0,0,0,0,1,1,0,0,78,1,0,0,0.0,0.0,0.0,1,0,62,72,86.1,7,0,4,28,40,10,1,78,,0,1,66
+2022-08-14,Matchweek 2,Away,D 2–2,Tottenham,Chelsea,Y,90,0,1,0,0,1,1,0,0,51,4,1,0,0.1,0.1,0.0,2,2,24,34,70.6,2,0,13,28,19,4,1,51,0.0,1,0,24
+2022-08-20,Matchweek 3,Home,W 1–0,Tottenham,Wolves,Y,90,0,0,0,0,0,0,0,0,68,0,0,1,0.0,0.0,0.0,0,0,50,61,82.0,4,0,5,22,37,9,0,68,,1,0,50
+2022-08-28,Matchweek 4,Away,W 2–0,Tottenham,Nott'ham Forest,Y,90,0,0,0,0,1,0,0,0,43,1,3,1,0.1,0.1,0.0,3,0,29,33,87.9,1,0,5,23,18,2,0,43,0.0,0,0,20
+2022-08-31,Matchweek 5,Away,D 1–1,Tottenham,West Ham,Y,90,0,0,0,0,0,0,1,0,65,0,0,0,0.0,0.0,0.1,2,0,52,58,89.7,2,0,3,28,29,8,2,65,,1,1,53
+2022-09-03,Matchweek 6,Home,W 2–1,Tottenham,Fulham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play"
+2022-10-08,Matchweek 10,Away,W 1–0,Tottenham,Brighton,Y,90,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,0,0,47,54,87.0,3,0,4,17,37,5,0,59,,0,0,46
+2022-10-15,Matchweek 11,Home,W 2–0,Tottenham,Everton,Y,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.3,4,0,78,84,92.9,8,0,1,11,61,13,0,85,,0,0,75
+2022-10-19,Matchweek 12,Away,L 0–2,Tottenham,Manchester Utd,Y,90,0,0,0,0,0,0,0,0,64,1,2,2,0.0,0.0,0.3,2,0,44,57,77.2,2,0,4,22,33,9,2,64,,1,0,46
+2022-10-23,Matchweek 13,Home,L 1–2,Tottenham,Newcastle Utd,N,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,0,1,2,6,1,0,9,,0,0,8
+2022-10-29,Matchweek 14,Away,W 3–2,Tottenham,Bournemouth,Y,90,1,0,0,0,3,1,0,0,80,0,0,4,0.3,0.3,0.0,2,0,61,69,88.4,3,0,3,16,47,17,1,80,,2,1,68
+2022-11-06,Matchweek 15,Home,L 1–2,Tottenham,Liverpool,Y,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,1,0,46,58,79.3,5,0,2,22,39,8,0,69,0.0,2,0,44
+2022-11-12,Matchweek 16,Home,W 4–3,Tottenham,Leeds United,Y,90,1,0,0,0,1,1,0,0,87,2,2,0,0.1,0.1,0.5,3,1,69,78,88.5,2,1,1,38,41,8,2,87,33.3,1,0,52
+2022-12-26,Matchweek 17,Away,D 2–2,Tottenham,Brentford,N,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,1,0,0,1,,0,0,1
+2023-01-01,Matchweek 18,Home,L 0–2,Tottenham,Aston Villa,Y,90,0,0,0,0,0,0,1,0,76,3,0,0,0.0,0.0,0.0,0,0,56,67,83.6,7,0,0,21,43,12,0,76,0.0,1,1,54
+2023-01-04,Matchweek 19,Away,W 4–0,Tottenham,Crystal Palace,N,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,1,0,0,1,,0,0,1
+2023-01-15,Matchweek 20,Home,L 0–2,Tottenham,Arsenal,N,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,1,3,0,0,4,,0,0,2
+2023-01-19,Matchweek 7,Away,L 2–4,Tottenham,Manchester City,Y,77,0,0,0,0,0,0,0,0,41,0,2,0,0.0,0.0,0.1,1,0,31,37,83.8,1,0,2,21,17,3,1,41,,0,0,26
+2023-01-23,Matchweek 21,Away,W 1–0,Tottenham,Fulham,Y,90,0,0,0,0,1,0,0,0,57,0,0,1,0.1,0.1,0.4,1,0,38,47,80.9,1,0,13,32,23,2,2,57,,0,0,39
