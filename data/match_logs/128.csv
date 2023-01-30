@@ -1,20 +1,20 @@
-Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec
-2022-08-06,Matchweek 1,Away,W 1–0,Chelsea,Everton,Y,90,0,0,0,0,0,0,0,0,88,1,3,2,0.0,0.0,0.0,1,0,67,76,88.2,8,0,17,41,46,1,0,88,,1,0,62
-2022-08-14,Matchweek 2,Home,D 2–2,Chelsea,Tottenham,Y,90,0,0,0,0,0,0,0,0,77,3,0,1,0.0,0.0,0.1,1,0,64,72,88.9,2,0,3,24,53,1,1,77,,0,0,57
-2022-08-21,Matchweek 3,Away,L 0–3,Chelsea,Leeds United,Y,90,0,0,0,0,1,0,0,0,79,1,3,0,0.0,0.0,0.0,0,0,63,71,88.7,3,0,8,36,41,2,1,79,,0,0,51
-2022-08-27,Matchweek 4,Home,W 2–1,Chelsea,Leicester City,Y,90,0,0,0,0,1,0,0,0,76,5,0,2,0.1,0.1,0.0,0,0,54,62,87.1,3,1,11,34,41,1,1,76,100.0,0,0,52
-2022-08-30,Matchweek 5,Away,L 1–2,Chelsea,Southampton,Y,90,0,0,0,0,1,0,0,0,97,0,3,4,0.0,0.0,0.0,0,0,70,81,86.4,3,1,13,47,47,3,0,97,100.0,0,0,63
-2022-09-03,Matchweek 6,Home,W 2–1,Chelsea,West Ham,Y*,90,0,1,0,0,0,0,0,0,114,3,2,0,0.0,0.0,0.2,1,1,99,106,93.4,6,0,4,38,72,5,1,114,,0,0,85
-2022-10-01,Matchweek 9,Away,W 2–1,Chelsea,Crystal Palace,Y,90,0,1,0,0,1,0,1,0,133,1,1,1,0.2,0.2,0.1,3,1,116,123,94.3,7,0,8,47,84,2,1,133,,1,0,109
-2022-10-16,Matchweek 11,Away,W 2–0,Chelsea,Aston Villa,Y*,90,0,0,0,0,0,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,67,73,91.8,0,0,19,55,27,0,0,82,,0,0,61
-2022-10-19,Matchweek 12,Away,D 0–0,Chelsea,Brentford,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play"
-2022-10-22,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.0,0,0,38,43,88.4,4,0,12,36,15,0,0,50,,0,0,32
-2022-10-29,Matchweek 14,Away,L 1–4,Chelsea,Brighton,Y*,90,0,0,0,0,0,0,0,0,74,1,1,6,0.0,0.0,0.0,0,0,57,63,90.5,2,0,16,41,33,1,1,74,,0,0,44
-2022-11-06,Matchweek 15,Home,L 0–1,Chelsea,Arsenal,Y,90,0,0,0,0,1,0,0,0,70,2,2,3,0.1,0.1,0.0,1,0,44,60,73.3,2,0,14,41,27,2,1,70,,0,1,45
-2022-11-12,Matchweek 16,Away,L 0–1,Chelsea,Newcastle Utd,N,84,0,0,0,0,1,0,0,0,81,1,2,1,0.0,0.0,0.0,0,0,66,70,94.3,3,0,15,47,31,3,1,81,,0,0,53
-2022-12-27,Matchweek 17,Home,W 2–0,Chelsea,Bournemouth,Y,90,0,0,0,0,0,0,0,0,101,1,1,0,0.0,0.0,0.0,0,0,89,95,93.7,2,0,26,65,35,1,0,101,,0,0,82
-2023-01-01,Matchweek 18,Away,D 1–1,Chelsea,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,138,2,1,0,0.0,0.0,0.0,3,0,118,127,92.9,1,0,14,60,77,1,1,138,,0,0,108
-2023-01-05,Matchweek 19,Home,L 0–1,Chelsea,Manchester City,Y,90,0,0,0,0,1,0,0,0,72,2,1,0,0.1,0.1,0.0,0,0,56,62,90.3,1,0,16,49,20,3,1,72,,0,0,51
-2023-01-12,Matchweek 7,Away,L 1–2,Chelsea,Fulham,Y,90,0,0,0,0,1,0,0,0,63,1,1,2,0.1,0.1,0.0,0,0,47,54,87.0,4,0,9,39,22,2,1,63,,0,0,46
-2023-01-15,Matchweek 20,Home,W 1–0,Chelsea,Crystal Palace,Y,90,0,0,0,0,0,0,0,0,95,4,1,1,0.0,0.0,0.0,0,0,72,81,88.9,2,0,17,49,41,5,4,95,0.0,0,0,62
-2023-01-21,Matchweek 21,Away,D 0–0,Chelsea,Liverpool,Y,90,0,0,0,0,1,0,0,0,108,1,2,3,0.4,0.4,0.0,1,0,83,92,90.2,2,0,20,87,19,2,1,108,,0,0,80
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA
+2022-08-06,Matchweek 1,Away,W 1–0,Chelsea,Everton,Y,90,0,0,0,0,0,0,0,0,88,1,3,2,0.0,0.0,0.0,1,0,67,76,88.2,8,0,17,41,46,1,0,88,,1,0,62,1307,633,0.0,0,6,1,0
+2022-08-14,Matchweek 2,Home,D 2–2,Chelsea,Tottenham,Y,90,0,0,0,0,0,0,0,0,77,3,0,1,0.0,0.0,0.1,1,0,64,72,88.9,2,0,3,24,53,1,1,77,,0,0,57,1159,387,0.0,1,3,0,0
+2022-08-21,Matchweek 3,Away,L 0–3,Chelsea,Leeds United,Y,90,0,0,0,0,1,0,0,0,79,1,3,0,0.0,0.0,0.0,0,0,63,71,88.7,3,0,8,36,41,2,1,79,,0,0,51,1326,548,0.0,0,2,0,0
+2022-08-27,Matchweek 4,Home,W 2–1,Chelsea,Leicester City,Y,90,0,0,0,0,1,0,0,0,76,5,0,2,0.1,0.1,0.0,0,0,54,62,87.1,3,1,11,34,41,1,1,76,100.0,0,0,52,1083,445,0.0,0,5,1,0
+2022-08-30,Matchweek 5,Away,L 1–2,Chelsea,Southampton,Y,90,0,0,0,0,1,0,0,0,97,0,3,4,0.0,0.0,0.0,0,0,70,81,86.4,3,1,13,47,47,3,0,97,100.0,0,0,63,1447,548,0.0,0,6,0,0
+2022-09-03,Matchweek 6,Home,W 2–1,Chelsea,West Ham,Y*,90,0,1,0,0,0,0,0,0,114,3,2,0,0.0,0.0,0.2,1,1,99,106,93.4,6,0,4,38,72,5,1,114,,0,0,85,1783,734,0.1,1,8,1,0
+2022-10-01,Matchweek 9,Away,W 2–1,Chelsea,Crystal Palace,Y,90,0,1,0,0,1,0,1,0,133,1,1,1,0.2,0.2,0.1,3,1,116,123,94.3,7,0,8,47,84,2,1,133,,1,0,109,2421,1049,0.2,1,12,4,0
+2022-10-16,Matchweek 11,Away,W 2–0,Chelsea,Aston Villa,Y*,90,0,0,0,0,0,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,67,73,91.8,0,0,19,55,27,0,0,82,,0,0,61,1242,466,0.0,0,0,0,0
+2022-10-19,Matchweek 12,Away,D 0–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-22,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.0,0,0,38,43,88.4,4,0,12,36,15,0,0,50,,0,0,32,706,233,0.0,0,1,0,0
+2022-10-29,Matchweek 14,Away,L 1–4,Chelsea,Brighton,Y*,90,0,0,0,0,0,0,0,0,74,1,1,6,0.0,0.0,0.0,0,0,57,63,90.5,2,0,16,41,33,1,1,74,,0,0,44,961,488,0.0,0,4,0,0
+2022-11-06,Matchweek 15,Home,L 0–1,Chelsea,Arsenal,Y,90,0,0,0,0,1,0,0,0,70,2,2,3,0.1,0.1,0.0,1,0,44,60,73.3,2,0,14,41,27,2,1,70,,0,1,45,1008,474,0.0,0,3,0,0
+2022-11-12,Matchweek 16,Away,L 0–1,Chelsea,Newcastle Utd,N,84,0,0,0,0,1,0,0,0,81,1,2,1,0.0,0.0,0.0,0,0,66,70,94.3,3,0,15,47,31,3,1,81,,0,0,53,1144,380,0.0,0,4,0,0
+2022-12-27,Matchweek 17,Home,W 2–0,Chelsea,Bournemouth,Y,90,0,0,0,0,0,0,0,0,101,1,1,0,0.0,0.0,0.0,0,0,89,95,93.7,2,0,26,65,35,1,0,101,,0,0,82,1645,560,0.0,0,2,0,0
+2023-01-01,Matchweek 18,Away,D 1–1,Chelsea,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,138,2,1,0,0.0,0.0,0.0,3,0,118,127,92.9,1,0,14,60,77,1,1,138,,0,0,108,1919,795,0.1,0,1,1,0
+2023-01-05,Matchweek 19,Home,L 0–1,Chelsea,Manchester City,Y,90,0,0,0,0,1,0,0,0,72,2,1,0,0.1,0.1,0.0,0,0,56,62,90.3,1,0,16,49,20,3,1,72,,0,0,51,1070,379,0.0,0,2,0,0
+2023-01-12,Matchweek 7,Away,L 1–2,Chelsea,Fulham,Y,90,0,0,0,0,1,0,0,0,63,1,1,2,0.1,0.1,0.0,0,0,47,54,87.0,4,0,9,39,22,2,1,63,,0,0,46,977,435,0.0,0,5,0,0
+2023-01-15,Matchweek 20,Home,W 1–0,Chelsea,Crystal Palace,Y,90,0,0,0,0,0,0,0,0,95,4,1,1,0.0,0.0,0.0,0,0,72,81,88.9,2,0,17,49,41,5,4,95,0.0,0,0,62,1472,694,0.0,0,7,0,0
+2023-01-21,Matchweek 21,Away,D 0–0,Chelsea,Liverpool,Y,90,0,0,0,0,1,0,0,0,108,1,2,3,0.4,0.4,0.0,1,0,83,92,90.2,2,0,20,87,19,2,1,108,,0,0,80,1514,515,0.0,1,4,2,0

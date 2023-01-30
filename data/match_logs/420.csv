@@ -1,21 +1,21 @@
-Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec
-2022-08-06,Matchweek 1,Away,L 1–4,Southampton,Tottenham,Y,90,0,0,0,0,1,0,0,0,73,2,3,4,0.1,0.1,0.0,2,0,42,54,77.8,6,2,9,28,32,14,2,73,50.0,0,3,40
-2022-08-13,Matchweek 2,Home,D 2–2,Southampton,Leeds United,Y,90,0,0,0,0,0,0,1,0,75,4,1,3,0.0,0.0,0.0,2,0,44,65,67.7,2,3,5,40,34,5,0,75,100.0,1,2,37
-2022-08-20,Matchweek 3,Away,W 2–1,Southampton,Leicester City,Y,90,0,0,0,0,1,0,0,0,60,3,1,2,0.1,0.1,0.0,1,1,37,49,75.5,2,0,10,23,30,7,1,60,,0,0,33
-2022-08-27,Matchweek 4,Home,L 0–1,Southampton,Manchester Utd,Y,90,0,0,0,0,1,0,0,0,63,2,0,1,0.1,0.1,0.0,0,0,30,54,55.6,2,1,5,25,29,10,1,63,100.0,0,0,28
-2022-08-30,Matchweek 5,Home,W 2–1,Southampton,Chelsea,Y,90,0,0,0,0,1,0,1,0,46,2,1,1,0.1,0.1,0.0,0,0,17,35,48.6,1,0,5,18,19,9,1,46,,0,0,15
-2022-09-03,Matchweek 6,Away,L 0–1,Southampton,Wolves,Y,90,0,0,0,0,0,0,0,0,55,3,3,4,0.0,0.0,0.0,1,0,38,44,86.4,3,0,7,26,25,5,0,55,,0,0,21
-2022-09-16,Matchweek 8,Away,L 0–1,Southampton,Aston Villa,Y,90,0,0,0,0,0,0,0,0,71,2,0,2,0.0,0.0,0.0,3,0,45,59,76.3,1,0,9,38,29,4,0,71,,0,0,35
-2022-10-01,Matchweek 9,Home,L 1–2,Southampton,Everton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play"
-2022-10-08,Matchweek 10,Away,L 0–4,Southampton,Manchester City,Y,90,0,0,0,0,0,0,0,0,71,5,0,2,0.0,0.0,0.0,0,0,46,55,83.6,4,0,23,55,15,1,0,71,,0,0,49
-2022-10-16,Matchweek 11,Home,D 1–1,Southampton,West Ham,Y,90,0,0,0,0,0,0,0,0,57,2,3,7,0.0,0.0,0.0,0,0,26,35,74.3,2,0,18,35,19,3,0,57,,0,0,21
-2022-10-19,Matchweek 12,Away,W 1–0,Southampton,Bournemouth,Y,90,0,0,0,0,0,0,0,0,71,4,1,4,0.0,0.0,0.0,1,0,43,55,78.2,2,0,9,43,26,2,0,71,,1,0,39
-2022-10-23,Matchweek 13,Home,D 1–1,Southampton,Arsenal,Y,90,0,0,0,0,0,0,0,0,63,2,0,1,0.0,0.0,0.0,0,0,41,55,74.5,1,0,11,44,17,2,0,63,,0,1,40
-2022-10-29,Matchweek 14,Away,L 0–1,Southampton,Crystal Palace,Y,90,0,0,0,0,1,0,1,0,113,1,1,2,0.1,0.1,0.1,2,0,80,101,79.2,7,1,15,53,51,9,1,113,100.0,0,0,66
-2022-11-06,Matchweek 15,Home,L 1–4,Southampton,Newcastle Utd,Y,90,0,1,0,0,3,1,0,0,69,3,1,2,0.2,0.2,0.3,2,1,38,52,73.1,1,0,8,28,32,9,3,69,,0,0,29
-2022-11-12,Matchweek 16,Away,L 1–3,Southampton,Liverpool,Y,90,0,0,0,0,0,0,1,0,63,3,0,2,0.0,0.0,0.0,1,0,44,53,83.0,6,0,9,27,32,4,1,63,,0,0,34
-2022-12-26,Matchweek 17,Home,L 1–3,Southampton,Brighton,Y,90,0,0,0,0,1,0,0,0,75,0,1,2,0.1,0.1,0.0,2,0,55,68,80.9,5,0,8,41,34,2,1,75,,0,0,56
-2022-12-31,Matchweek 18,Away,L 1–2,Southampton,Fulham,Y,89,0,0,0,0,1,0,0,0,71,2,2,4,0.1,0.1,0.0,0,0,33,58,56.9,1,0,3,29,33,9,2,71,,0,1,28
-2023-01-04,Matchweek 19,Home,L 0–1,Southampton,Nott'ham Forest,Y,90,0,0,0,0,1,0,0,0,83,1,2,0,0.0,0.0,0.0,0,0,54,72,75.0,8,0,5,35,46,3,1,83,,1,2,38
-2023-01-14,Matchweek 20,Away,W 2–1,Southampton,Everton,Y,90,0,0,0,0,1,1,0,0,76,4,1,2,0.1,0.1,0.0,1,0,40,58,69.0,2,0,11,45,25,6,1,76,,1,0,38
-2023-01-21,Matchweek 21,Home,L 0–1,Southampton,Aston Villa,Y,90,0,0,0,0,2,1,0,0,66,1,5,2,0.1,0.1,0.0,0,0,33,47,70.2,1,0,10,32,30,4,2,66,,0,0,32
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA
+2022-08-06,Matchweek 1,Away,L 1–4,Southampton,Tottenham,Y,90,0,0,0,0,1,0,0,0,73,2,3,4,0.1,0.1,0.0,2,0,42,54,77.8,6,2,9,28,32,14,2,73,50.0,0,3,40,725,396,0.1,1,10,2,1
+2022-08-13,Matchweek 2,Home,D 2–2,Southampton,Leeds United,Y,90,0,0,0,0,0,0,1,0,75,4,1,3,0.0,0.0,0.0,2,0,44,65,67.7,2,3,5,40,34,5,0,75,100.0,1,2,37,888,401,0.0,0,4,0,0
+2022-08-20,Matchweek 3,Away,W 2–1,Southampton,Leicester City,Y,90,0,0,0,0,1,0,0,0,60,3,1,2,0.1,0.1,0.0,1,1,37,49,75.5,2,0,10,23,30,7,1,60,,0,0,33,794,356,0.0,0,2,0,0
+2022-08-27,Matchweek 4,Home,L 0–1,Southampton,Manchester Utd,Y,90,0,0,0,0,1,0,0,0,63,2,0,1,0.1,0.1,0.0,0,0,30,54,55.6,2,1,5,25,29,10,1,63,100.0,0,0,28,652,290,0.0,0,2,0,0
+2022-08-30,Matchweek 5,Home,W 2–1,Southampton,Chelsea,Y,90,0,0,0,0,1,0,1,0,46,2,1,1,0.1,0.1,0.0,0,0,17,35,48.6,1,0,5,18,19,9,1,46,,0,0,15,284,119,0.0,0,0,0,0
+2022-09-03,Matchweek 6,Away,L 0–1,Southampton,Wolves,Y,90,0,0,0,0,0,0,0,0,55,3,3,4,0.0,0.0,0.0,1,0,38,44,86.4,3,0,7,26,25,5,0,55,,0,0,21,735,330,0.0,0,2,1,1
+2022-09-16,Matchweek 8,Away,L 0–1,Southampton,Aston Villa,Y,90,0,0,0,0,0,0,0,0,71,2,0,2,0.0,0.0,0.0,3,0,45,59,76.3,1,0,9,38,29,4,0,71,,0,0,35,861,301,0.0,0,0,0,0
+2022-10-01,Matchweek 9,Home,L 1–2,Southampton,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-08,Matchweek 10,Away,L 0–4,Southampton,Manchester City,Y,90,0,0,0,0,0,0,0,0,71,5,0,2,0.0,0.0,0.0,0,0,46,55,83.6,4,0,23,55,15,1,0,71,,0,0,49,890,364,0.0,0,3,0,0
+2022-10-16,Matchweek 11,Home,D 1–1,Southampton,West Ham,Y,90,0,0,0,0,0,0,0,0,57,2,3,7,0.0,0.0,0.0,0,0,26,35,74.3,2,0,18,35,19,3,0,57,,0,0,21,525,213,0.0,0,0,0,0
+2022-10-19,Matchweek 12,Away,W 1–0,Southampton,Bournemouth,Y,90,0,0,0,0,0,0,0,0,71,4,1,4,0.0,0.0,0.0,1,0,43,55,78.2,2,0,9,43,26,2,0,71,,1,0,39,704,358,0.0,0,7,0,0
+2022-10-23,Matchweek 13,Home,D 1–1,Southampton,Arsenal,Y,90,0,0,0,0,0,0,0,0,63,2,0,1,0.0,0.0,0.0,0,0,41,55,74.5,1,0,11,44,17,2,0,63,,0,1,40,723,354,0.0,0,2,0,0
+2022-10-29,Matchweek 14,Away,L 0–1,Southampton,Crystal Palace,Y,90,0,0,0,0,1,0,1,0,113,1,1,2,0.1,0.1,0.1,2,0,80,101,79.2,7,1,15,53,51,9,1,113,100.0,0,0,66,1350,653,0.1,2,8,1,1
+2022-11-06,Matchweek 15,Home,L 1–4,Southampton,Newcastle Utd,Y,90,0,1,0,0,3,1,0,0,69,3,1,2,0.2,0.2,0.3,2,1,38,52,73.1,1,0,8,28,32,9,3,69,,0,0,29,688,416,0.1,1,7,0,0
+2022-11-12,Matchweek 16,Away,L 1–3,Southampton,Liverpool,Y,90,0,0,0,0,0,0,1,0,63,3,0,2,0.0,0.0,0.0,1,0,44,53,83.0,6,0,9,27,32,4,1,63,,0,0,34,766,397,0.0,0,8,0,0
+2022-12-26,Matchweek 17,Home,L 1–3,Southampton,Brighton,Y,90,0,0,0,0,1,0,0,0,75,0,1,2,0.1,0.1,0.0,2,0,55,68,80.9,5,0,8,41,34,2,1,75,,0,0,56,971,392,0.0,1,6,0,0
+2022-12-31,Matchweek 18,Away,L 1–2,Southampton,Fulham,Y,89,0,0,0,0,1,0,0,0,71,2,2,4,0.1,0.1,0.0,0,0,33,58,56.9,1,0,3,29,33,9,2,71,,0,1,28,504,227,0.0,0,1,1,1
+2023-01-04,Matchweek 19,Home,L 0–1,Southampton,Nott'ham Forest,Y,90,0,0,0,0,1,0,0,0,83,1,2,0,0.0,0.0,0.0,0,0,54,72,75.0,8,0,5,35,46,3,1,83,,1,2,38,1005,375,0.0,0,5,0,0
+2023-01-14,Matchweek 20,Away,W 2–1,Southampton,Everton,Y,90,0,0,0,0,1,1,0,0,76,4,1,2,0.1,0.1,0.0,1,0,40,58,69.0,2,0,11,45,25,6,1,76,,1,0,38,693,304,0.0,0,1,0,0
+2023-01-21,Matchweek 21,Home,L 0–1,Southampton,Aston Villa,Y,90,0,0,0,0,2,1,0,0,66,1,5,2,0.1,0.1,0.0,0,0,33,47,70.2,1,0,10,32,30,4,2,66,,0,0,32,587,306,0.0,0,2,0,0
