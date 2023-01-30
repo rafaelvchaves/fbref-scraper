@@ -176,7 +176,9 @@ def fetch_player_ids(season):
     # filter out players with < 270 minutes, and goalkeepers
     df = df[(df['minutes'] >= 270) & (df['element_type'] != 1)]
     df['position'] = df['element_type'].apply(lambda x: to_position[x])
-    df = df[['id', 'first_name', 'second_name', 'web_name', 'team', 'position']]
+    df['price'] = df['now_cost'].apply(lambda x: x / 10)
+    df = df[['id', 'code', 'first_name', 'second_name',
+             'web_name', 'team', 'position', 'price']]
     data = []
     for player in df.to_dict(orient='records'):
         # try to find corresponding fbref id for each player
