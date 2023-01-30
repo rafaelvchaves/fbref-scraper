@@ -1,7 +1,7 @@
 '''
-This script retrieves a list of all current FPL players and scrapes fbref
-to find their fbref ID. The resulting data is placed in the players_{season}.csv
-file.
+This script retrieves a list of all current FPL players and teams and scrapes
+fbref to find their fbref ID. The resulting data is placed in the
+players_{season}.csv file and the teams_{season}.csv file.
 '''
 
 import urllib.request
@@ -115,6 +115,7 @@ hardcoded_conversions = {
     655: 'aa81d8f8',  # Karl Hein
     668: '04eb7d82',  # Amario Cozier-Duberry
     685: '3a686640',  # Nathan Butler-Oyedeji
+    111: '38ceb24a',  # Leandro Trossard
     42: '66b76d44',   # Emiliano Buendia
     60: 'dc4cae05',   # David Brooks
     543: '8ea2227a',  # Matthew Clarke
@@ -184,16 +185,18 @@ def fetch_player_ids(season):
     print('Number of players:', len(data))
     pd.DataFrame(data).to_csv(f'players_{season}.csv', index=False)
 
+
 def get_teams():
     url = 'https://fantasy.premierleague.com/api/bootstrap-static/'
     res = requests.get(url).json()
     return res['teams']
 
+
 def fetch_team_ids(season):
     df = pd.DataFrame(get_teams())
-    df['fbref_id'] = df['id'].apply(lambda i : team_ids[i])
-    # df = df.set_index('id')
+    df['fbref_id'] = df['id'].apply(lambda i: team_ids[i])
     df.to_csv(f'teams_{season}.csv', index=False)
 
-# fetch_player_ids('2022-23')
+
+fetch_player_ids('2022-23')
 fetch_team_ids('2022-23')
