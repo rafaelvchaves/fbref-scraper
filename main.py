@@ -36,14 +36,14 @@ for file in os.listdir(data_dir):
 # stat_cols = ['Min', 'Gls', 'Ast', 'PK', 'PKatt', 'Sh', 'SoT', 'CrdY', 'CrdR', 'Touches', 'Tkl', 'Int', 'Blocks', 'xG', 'npxG', 'xAG', 'SCA',
 #              'GCA', 'Cmp', 'Att', 'Cmp%', 'Prog', 'Succ', 'Def Pen', 'Def 3rd', 'Mid 3rd', 'Att 3rd', 'Att Pen', 'Live', 'Succ%', 'Mis', 'Dis', 'Rec']
 stat_cols = ['Min', 'Sh', 'SoT', 'xG', 'npxG',
-             'xAG', 'SCA', 'GCA', 'Att 3rd', 'Att Pen']
-stats = pd.DataFrame(columns=['Name', 'Price', 'Team', 'Position', 'Games'] + stat_cols)
+             'xAG', 'SCA', 'GCA', 'Att 3rd', 'Att Pen', 'xA']
+stats = pd.DataFrame(
+    columns=['Name', 'Price', 'Team', 'Position', 'Games'] + stat_cols)
 
 # average each players stats since the start date and consolidate data
 for player_id, data in dfs.items():
     data = data[~data['Date'].isna()]
-    num_games = len(
-        data.loc[(data['Date'] >= start_date) & (data['Min'] > 0)])
+    num_games = len(data.loc[(data['Date'] >= start_date) & (data['Min'] > 0)])
     if num_games == 0:
         continue
     i = len(stats.index)
@@ -56,6 +56,11 @@ for player_id, data in dfs.items():
     stats.loc[i, stat_cols] = data.loc[data['Date']
                                        >= start_date, stat_cols].mean()
 stats.fillna(0, inplace=True)
+# stats_df = stats[stat_cols]
+# stats[stat_cols] = (stats_df - stats_df.min()) / \
+#     (stats_df.max() - stats_df.min())
+# stats['Test'] = stats['npxG'] + stats['xA'] + \
+#     stats['Sh'] + stats['Att Pen'] + stats['GCA']
 stats = stats.round(2)
 
 # export to Google sheets
