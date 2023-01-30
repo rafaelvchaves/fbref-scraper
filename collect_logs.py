@@ -11,9 +11,12 @@ import random
 import requests
 import os
 
+calls = 0
 failures = []
 
+
 def fetch_player_stats(player, stats_type=['summary']):
+    global calls
     name = player['web_name']
     fbref_id = player['fbref_id']
     fpl_id = player['id']
@@ -23,15 +26,18 @@ def fetch_player_stats(player, stats_type=['summary']):
         time.sleep(1)
         url = f'https://fbref.com/en/players/{fbref_id}/matchlogs/2022-2023/c9/{st}/'
         try:
+            calls += 1
             df = pd.read_html(url)[0]
             # remove multi-indexed columns
             df.columns = [c[1] for c in df.columns]
+            df['Date'] = pd.to_datetime(df['Date'], errors='coerce').dt.date
             df = df[~df['Date'].isna()]
             df.drop(['Day', 'Pos', 'Match Report'], axis=1, inplace=True)
             # if os.path.exists(player_file):
             #     prev_df = pd.read_csv(player_file)
             #     if len(prev_df) == len(df):
             #         # already up-to-date, no need to make more calls
+            #         print(f'skipping {name}...')
             #         return
             dfs.append(df)
         except Exception as e:
@@ -46,22 +52,30 @@ def fetch_player_stats(player, stats_type=['summary']):
     df.to_csv(player_file, index=False)
 
 
-players = pd.read_csv('players_2022-23.csv')
-data = []
+def fetch_all_logs():
+    players = pd.read_csv('players_2022-23.csv')
+    data = []
+    # handle fbref rate limit of 20 requests per minute
+    start = time.perf_counter()
+    log_types = ['summary', 'possession', 'passing']
+    for player in players.to_dict(orient='records'):
+        print(player['web_name'])
+        fetch_player_stats(player, log_types)
+        if calls >= 18:
+            elapsed = time.perf_counter() - start
+            time.sleep(max(0, 60 - elapsed))
+            calls = 0
+            start = time.perf_counter()
+    print(failures)
 
-# handle fbref rate limit of 20 requests per minute
-calls = 0
-start = time.perf_counter()
-log_types = ['summary', 'possession', 'passing']
-calls_per_player = len(log_types)
-for player in players.to_dict(orient='records'):
-    print(player)
-    fetch_player_stats(player, log_types)
-    calls += calls_per_player
-    if calls >= 18:
-        elapsed = time.perf_counter() - start
-        time.sleep(max(0, 60 - elapsed))
-        calls = 0
-        start = time.perf_counter()
+if __name__ == '__main__':
+    fetch_all_logs()
 
-print(failures)
+# df = pd.read_csv('players_2022-23.csv').set_index('id')
+# players = []
+# for i in players:
+#     print(i)
+#     player = df.loc[i].to_dict()
+#     player['id'] = i
+#     time.sleep(5)
+#     fetch_player_stats(player, ['summary', 'possession', 'passing'])
