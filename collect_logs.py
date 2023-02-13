@@ -33,12 +33,12 @@ def fetch_player_stats(player, stats_type=['summary']):
             df['Date'] = pd.to_datetime(df['Date'], errors='coerce').dt.date
             df = df[~df['Date'].isna()]
             df.drop(['Day', 'Pos', 'Match Report'], axis=1, inplace=True)
-            # if os.path.exists(player_file):
-            #     prev_df = pd.read_csv(player_file)
-            #     if len(prev_df) == len(df):
-            #         # already up-to-date, no need to make more calls
-            #         print(f'skipping {name}...')
-            #         return
+            if os.path.exists(player_file):
+                prev_df = pd.read_csv(player_file)
+                if len(prev_df) == len(df):
+                    # already up-to-date, no need to make more calls
+                    print(f'skipping {name}...')
+                    return
             dfs.append(df)
         except Exception as e:
             failures.append(fpl_id)
@@ -53,8 +53,8 @@ def fetch_player_stats(player, stats_type=['summary']):
 
 
 def fetch_all_logs():
+    global calls
     players = pd.read_csv('players_2022-23.csv')
-    data = []
     # handle fbref rate limit of 20 requests per minute
     start = time.perf_counter()
     log_types = ['summary', 'possession', 'passing']
