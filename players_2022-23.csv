@@ -209,7 +209,6 @@ id,code,first_name,second_name,web_name,team,position,price,fbref_id
 319,461358,Julián,Álvarez,Álvarez,13,F,6.0,15ab5a2b
 573,477064,Rico,Lewis,Lewis,13,D,3.9,b57e066e
 610,211975,Manuel,Akanji,Akanji,13,D,5.0,89ac64a6
-326,14937,Cristiano Ronaldo,dos Santos Aveiro,Ronaldo,14,F,10.2,
 329,90152,Raphaël,Varane,Varane,14,D,4.8,9f8e9423
 330,95658,Harry,Maguire,Maguire,14,D,4.7,d8931174
 331,101582,Frederico,Rodrigues de Paula Santos,Fred,14,M,5.1,b853e0ad
@@ -311,7 +310,7 @@ id,code,first_name,second_name,web_name,team,position,price,fbref_id
 472,210494,Nayef,Aguerd,Aguerd,19,D,4.8,288e1e13
 509,220585,Flynn,Downes,Downes,19,M,4.2,69fdb896
 529,195899,Gianluca,Scamacca,Scamacca,19,F,6.6,8790f988
-545,109533,Emerson,Palmieri dos Santos,Emerson,19,D,4.0,
+545,109533,Emerson,Palmieri dos Santos,Emerson,19,D,4.0,e0bc6fdc
 588,201057,Thilo,Kehrer,Kehrer,19,D,4.4,51dbeea9
 603,224024,Lucas,Tolentino Coelho de Lima,Paquetá,19,M,5.9,9b6f7fd5
 459,60232,Craig,Dawson,Dawson,20,D,4.8,3e9e06cb
@@ -324,12 +323,12 @@ id,code,first_name,second_name,web_name,team,position,price,fbref_id
 484,214048,Max,Kilman,Kilman,20,D,4.4,d0f72bf1
 486,247632,Pedro,Lomba Neto,Neto,20,M,4.9,7ba2eaa9
 487,448514,Rayan,Aït-Nouri,Aït-Nouri,20,D,4.2,9b398aea
-489,510362,Toti António,Gomes,Toti,20,D,3.9,
+489,510362,Toti António,Gomes,Toti,20,D,3.9,f0caab96
 491,159533,Adama,Traoré Diarra,Adama,20,M,5.4,9a28eba4
 503,19624,João Filipe Iria,Santos Moutinho,Moutinho,20,M,4.7,f5a00fa4
 516,432830,Nathan,Collins,Collins,20,D,4.4,a8c19eb8
 558,490721,Hugo,Bueno López,Bueno,20,D,3.9,bfc3b3a0
-579,181284,Gonçalo Manuel,Ganchinho Guedes,Guedes,20,M,5.8,
+579,181284,Gonçalo Manuel,Ganchinho Guedes,Guedes,20,M,5.8,e6bc67d7
 589,465351,Matheus Luiz,Nunes,Matheus,20,M,4.8,e6af02e0
 625,18507,Diego,Da Silva Costa,Diego Costa,20,F,5.4,a190d597
 629,476502,Boubacar,Traoré,Traoré,20,M,4.4,999ceb5f

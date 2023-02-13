@@ -150,6 +150,9 @@ hardcoded_conversions = {
     311: '3eb22ec9',  # Bernardo Silva
     589: 'e6af02e0',  # Matheus Nunes
     459: '3e9e06cb',  # Craig Dawson
+    489: 'f0caab96',  # Toti Gomes
+    579: 'e6bc67d7',  # Goncalo Guedes
+    545: 'e0bc6fdc',  # Emerson Palmieri
 }
 
 
