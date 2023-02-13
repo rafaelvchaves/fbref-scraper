@@ -1,11 +1,13 @@
-Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA
-2022-08-07,Matchweek 1,Home,L 1–2,Manchester Utd,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-08-13,Matchweek 2,Away,L 0–4,Manchester Utd,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-08-22,Matchweek 3,Home,W 2–1,Manchester Utd,Liverpool,N,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,2,4,2,0,0,6,,1,0,0,12,12,0.0,0,0,0,0
-2022-08-27,Matchweek 4,Away,W 1–0,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-27,Matchweek 17,Home,W 3–0,Manchester Utd,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,68,2,1,0,0.0,0.0,0.3,2,0,52,61,85.2,2,1,0,12,29,28,6,68,33.3,1,0,42,729,248,0.1,2,3,0,0
-2022-12-31,Matchweek 18,Away,W 1–0,Manchester Utd,Wolves,Y,90,0,0,0,0,0,0,0,0,51,1,4,1,0.0,0.0,0.1,2,0,35,43,81.4,3,0,3,16,22,13,1,51,,0,1,31,469,192,0.1,1,3,0,0
-2023-01-03,Matchweek 19,Home,W 3–0,Manchester Utd,Bournemouth,Y,68,0,0,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.1,2,0,22,31,71.0,0,0,3,12,15,9,1,36,,0,1,19,315,117,0.0,1,0,0,0
-2023-01-14,Matchweek 20,Home,W 2–1,Manchester Utd,Manchester City,Y,90,0,0,0,0,1,0,0,0,34,4,1,0,0.0,0.0,0.0,2,1,22,27,81.5,1,3,3,21,9,4,1,34,100.0,0,0,12,323,102,0.0,0,1,0,0
-2023-01-18,Matchweek 7,Away,D 1–1,Manchester Utd,Crystal Palace,Y,90,0,0,0,0,0,0,0,0,87,4,2,1,0.0,0.0,0.0,2,0,56,70,80.0,5,0,4,22,41,24,1,87,0.0,3,2,54,745,266,0.1,1,6,3,2
-2023-01-22,Matchweek 21,Away,L 2–3,Manchester Utd,Arsenal,Y,90,0,0,0,0,0,0,0,0,46,4,1,0,0.0,0.0,0.0,2,0,26,32,81.3,1,0,10,22,14,10,2,46,0.0,2,0,18,337,93,0.0,1,2,0,0
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Tkld,Tkld%,TotDist,PrgDist,1/3,CPA,Mis,Dis,Rec,PrgR,xA,KP,PPA,CrsPA
+2022-08-07,Matchweek 1,Home,L 1–2,Manchester Utd,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-13,Matchweek 2,Away,L 0–4,Manchester Utd,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-22,Matchweek 3,Home,W 2–1,Manchester Utd,Liverpool,N,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,2,4,2,0,0,6,,0,,0,0,0,0,1,0,0,0,0.0,0,0,0
+2022-08-27,Matchweek 4,Away,W 1–0,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-12-27,Matchweek 17,Home,W 3–0,Manchester Utd,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,69,2,1,0,0.0,0.0,0.3,2,0,52,61,85.2,4,39,5,1,0,12,29,29,6,69,33.3,2,66.7,219,130,2,1,1,0,42,6,0.1,2,0,0
+2022-12-31,Matchweek 18,Away,W 1–0,Manchester Utd,Wolves,Y,90,0,0,0,0,0,0,0,0,51,1,4,1,0.0,0.0,0.1,2,0,35,43,81.4,4,28,2,0,3,16,22,13,1,51,,0,,148,86,0,1,0,1,31,2,0.1,1,0,0
+2023-01-03,Matchweek 19,Home,W 3–0,Manchester Utd,Bournemouth,Y,68,0,0,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.1,2,0,22,31,71.0,1,16,0,0,3,12,15,9,1,36,,0,,65,20,0,0,0,1,19,3,0.0,1,0,0
+2023-01-14,Matchweek 20,Home,W 2–1,Manchester Utd,Manchester City,Y,90,0,0,0,0,1,0,0,0,34,4,1,0,0.0,0.0,0.0,2,1,22,27,81.5,1,10,1,3,3,21,9,4,1,34,100.0,0,0.0,38,31,1,0,0,0,12,2,0.0,0,0,0
+2023-01-18,Matchweek 7,Away,D 1–1,Manchester Utd,Crystal Palace,Y,90,0,0,0,0,0,0,0,0,87,4,2,1,0.0,0.0,0.0,2,0,56,70,80.0,6,49,5,0,4,22,41,24,1,87,0.0,2,100.0,276,127,2,0,3,2,53,4,0.1,1,3,2
+2023-01-22,Matchweek 21,Away,L 2–3,Manchester Utd,Arsenal,Y,90,0,0,0,0,0,0,0,0,46,4,1,0,0.0,0.0,0.0,2,0,26,32,81.3,2,12,0,0,10,22,14,10,2,46,0.0,1,100.0,60,30,1,0,2,0,18,1,0.0,1,0,0
+2023-02-04,Matchweek 22,Home,W 2–1,Manchester Utd,Crystal Palace,Y,86,0,0,0,0,0,0,0,0,75,2,2,3,0.0,0.0,0.0,0,0,56,63,88.9,2,48,3,1,2,18,33,25,1,75,50.0,1,50.0,244,139,4,0,1,1,49,5,0.0,0,0,0
+2023-02-12,Matchweek 23,Away,W 2–0,Manchester Utd,Leeds United,N,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,5,0,0,1,5,5,2,0,12,,0,,13,10,0,0,1,0,5,0,0.0,0,0,0

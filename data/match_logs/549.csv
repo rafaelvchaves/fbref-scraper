@@ -1,18 +1,20 @@
-Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Mis,Dis,Rec,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA
-2022-08-07,Matchweek 1,Home,D 2–2,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-08-13,Matchweek 2,Away,L 2–4,Leicester City,Arsenal,N,28,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,1,0,0,3,10,3,0,15,,0,0,11,204,41,0.0,0,1,1,0
-2022-08-20,Matchweek 3,Home,L 1–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-08-27,Matchweek 4,Away,L 1–2,Leicester City,Chelsea,Y,54,0,0,0,0,0,0,1,0,23,4,0,1,0.0,0.0,0.0,1,0,9,16,56.3,0,0,1,6,12,5,0,23,0.0,2,3,14,132,19,0.0,0,0,0,0
-2022-09-01,Matchweek 5,Home,L 0–1,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-09-04,Matchweek 6,Away,L 2–5,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-09-17,Matchweek 8,Away,L 2–6,Leicester City,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-10-03,Matchweek 9,Home,W 4–0,Leicester City,Nott'ham Forest,N,11,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,0,0,1,4,0,0,5,,0,0,4,44,0,0.0,0,0,0,0
-2022-10-08,Matchweek 10,Away,L 1–2,Leicester City,Bournemouth,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-10-15,Matchweek 11,Home,D 0–0,Leicester City,Crystal Palace,N,9,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,1,0,2,4,2,0,8,100.0,0,0,5,81,18,0.0,0,1,0,0
-2022-10-20,Matchweek 12,Home,W 2–0,Leicester City,Leeds United,Y,69,0,0,0,0,1,0,0,0,32,2,1,1,0.2,0.2,0.0,1,0,16,20,80.0,4,1,0,6,12,14,2,32,33.3,1,4,17,214,70,0.0,0,0,1,0
-2022-10-23,Matchweek 13,Away,W 4–0,Leicester City,Wolves,N,29,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,0,0,1,4,4,0,9,,0,1,5,97,47,0.1,0,2,1,0
-2022-10-29,Matchweek 14,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2022-11-12,Matchweek 16,Away,W 2–0,Leicester City,West Ham,N,66,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,14,20,70.0,0,1,1,7,16,5,1,28,100.0,1,0,18,192,60,0.0,0,0,0,0
-2022-12-26,Matchweek 17,Home,L 0–3,Leicester City,Newcastle Utd,Y,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,0,1,1,4,0,0,5,,1,0,2,49,0,0.0,0,0,0,0
-2023-01-14,Matchweek 20,Away,L 0–2,Leicester City,Nott'ham Forest,N,23,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,0,1,0,1,4,14,0,19,100.0,0,0,15,175,54,0.0,0,0,0,0
-2023-01-21,Matchweek 21,Home,D 2–2,Leicester City,Brighton,Y,34,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,0,0,1,5,10,0,15,,1,0,11,120,3,0.0,0,0,0,0
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Tkld,Tkld%,TotDist,PrgDist,1/3,CPA,Mis,Dis,Rec,PrgR,xA,KP,PPA,CrsPA
+2022-08-07,Matchweek 1,Home,D 2–2,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-13,Matchweek 2,Away,L 2–4,Leicester City,Arsenal,N,28,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,2,11,1,0,0,3,10,3,0,15,,0,,46,19,0,0,0,0,11,1,0.0,0,1,0
+2022-08-20,Matchweek 3,Home,L 1–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-27,Matchweek 4,Away,L 1–2,Leicester City,Chelsea,Y,54,0,0,0,0,0,0,1,0,24,4,0,1,0.0,0.0,0.0,1,0,9,16,56.3,0,10,2,0,1,6,12,6,0,24,0.0,1,100.0,69,25,1,0,2,3,14,4,0.0,0,0,0
+2022-09-01,Matchweek 5,Home,L 0–1,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-09-04,Matchweek 6,Away,L 2–5,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-09-17,Matchweek 8,Away,L 2–6,Leicester City,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-03,Matchweek 9,Home,W 4–0,Leicester City,Nott'ham Forest,N,11,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,1,4,0,0,5,,0,,2,0,0,0,0,0,4,0,0.0,0,0,0
+2022-10-08,Matchweek 10,Away,L 1–2,Leicester City,Bournemouth,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-15,Matchweek 11,Home,D 0–0,Leicester City,Crystal Palace,N,9,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,6,1,1,0,2,4,2,0,8,100.0,0,0.0,47,25,0,0,0,0,5,0,0.0,0,0,0
+2022-10-20,Matchweek 12,Home,W 2–0,Leicester City,Leeds United,Y,69,0,0,0,0,1,0,0,0,31,2,1,1,0.2,0.2,0.0,1,0,16,20,80.0,3,16,2,1,0,6,12,13,2,31,33.3,2,66.7,82,19,0,1,1,4,17,8,0.0,0,1,0
+2022-10-23,Matchweek 13,Away,W 4–0,Leicester City,Wolves,N,29,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,4,0,0,0,1,4,4,0,9,,0,,13,1,0,0,0,1,5,1,0.1,0,1,0
+2022-10-29,Matchweek 14,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-11-12,Matchweek 16,Away,W 2–0,Leicester City,West Ham,N,66,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,14,20,70.0,1,15,0,1,1,6,16,5,1,27,100.0,0,0.0,58,20,1,0,1,0,18,2,0.0,0,0,0
+2022-12-26,Matchweek 17,Home,L 0–3,Leicester City,Newcastle Utd,Y,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,1,1,4,0,0,5,,0,,0,0,0,0,1,0,2,1,0.0,0,0,0
+2023-01-14,Matchweek 20,Away,L 0–2,Leicester City,Nott'ham Forest,N,23,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,8,2,1,0,1,4,14,0,19,100.0,0,0.0,58,19,1,0,0,0,15,3,0.0,0,0,0
+2023-01-21,Matchweek 21,Home,D 2–2,Leicester City,Brighton,Y,34,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,9,2,0,0,1,5,10,0,15,,0,,64,34,2,0,1,0,11,3,0.0,0,0,0
+2023-02-04,Matchweek 22,Away,W 4–2,Leicester City,Aston Villa,N,24,1,0,0,0,1,1,0,0,11,0,0,1,0.3,0.3,0.0,0,0,3,6,50.0,0,6,0,0,3,5,2,4,1,11,,0,,18,2,0,0,1,0,6,1,0.0,0,0,0
+2023-02-11,Matchweek 23,Home,W 4–1,Leicester City,Tottenham,N,14,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,1,0,4,7,57.1,0,6,0,0,1,1,5,3,0,9,,0,,18,0,0,0,0,0,6,2,0.0,0,0,0

@@ -1,0 +1,39 @@
+Date,Round,Venue,GF,GA,Opponent,xG,xGA
+2022-08-05,Matchweek 1,Away,2.0,0.0,Crystal Palace,1.0,1.2
+2022-08-13,Matchweek 2,Home,4.0,2.0,Leicester City,2.7,0.5
+2022-08-20,Matchweek 3,Away,3.0,0.0,Bournemouth,1.3,0.3
+2022-08-27,Matchweek 4,Home,2.0,1.0,Fulham,2.6,0.8
+2022-08-31,Matchweek 5,Home,2.0,1.0,Aston Villa,2.4,0.4
+2022-09-04,Matchweek 6,Away,1.0,3.0,Manchester Utd,1.3,1.5
+2022-09-11,Matchweek 7,Home,,,Everton,,
+2022-09-18,Matchweek 8,Away,3.0,0.0,Brentford,1.5,0.5
+2022-10-01,Matchweek 9,Home,3.0,1.0,Tottenham,2.4,1.6
+2022-10-09,Matchweek 10,Home,3.0,2.0,Liverpool,2.7,1.1
+2022-10-16,Matchweek 11,Away,1.0,0.0,Leeds United,0.5,1.8
+2022-10-23,Matchweek 13,Away,1.0,1.0,Southampton,1.0,0.7
+2022-10-30,Matchweek 14,Home,5.0,0.0,Nott'ham Forest,2.3,0.4
+2022-11-06,Matchweek 15,Away,1.0,0.0,Chelsea,2.1,0.3
+2022-11-12,Matchweek 16,Away,2.0,0.0,Wolves,2.1,0.7
+2022-12-26,Matchweek 17,Home,3.0,1.0,West Ham,2.1,1.0
+2022-12-31,Matchweek 18,Away,4.0,2.0,Brighton,2.9,1.2
+2023-01-03,Matchweek 19,Home,0.0,0.0,Newcastle Utd,1.1,1.0
+2023-01-15,Matchweek 20,Away,2.0,0.0,Tottenham,1.8,1.6
+2023-01-22,Matchweek 21,Home,3.0,2.0,Manchester Utd,3.1,0.4
+2023-02-04,Matchweek 22,Away,,,Everton,,
+2023-02-11,Matchweek 23,Home,,,Brentford,,
+2023-02-15,Matchweek 12,Home,,,Manchester City,,
+2023-02-18,Matchweek 24,Away,,,Aston Villa,,
+2023-02-25,Matchweek 25,Away,,,Leicester City,,
+2023-03-04,Matchweek 26,Home,,,Bournemouth,,
+2023-03-12,Matchweek 27,Away,,,Fulham,,
+2023-03-19,Matchweek 28,Home,,,Crystal Palace,,
+2023-04-01,Matchweek 29,Home,,,Leeds United,,
+2023-04-08,Matchweek 30,Away,,,Liverpool,,
+2023-04-15,Matchweek 31,Away,,,West Ham,,
+2023-04-22,Matchweek 32,Home,,,Southampton,,
+2023-04-26,Matchweek 33,Away,,,Manchester City,,
+2023-04-29,Matchweek 34,Home,,,Chelsea,,
+2023-05-06,Matchweek 35,Away,,,Newcastle Utd,,
+2023-05-13,Matchweek 36,Home,,,Brighton,,
+2023-05-20,Matchweek 37,Away,,,Nott'ham Forest,,
+2023-05-28,Matchweek 38,Home,,,Wolves,,
