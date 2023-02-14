@@ -1,0 +1,16 @@
+Date,Round,Venue,Result,Squad,Opponent,Start,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ%,Tkld,Tkld%,TotDist,PrgDist,1/3,CPA,Mis,Dis,Rec,PrgR,xA,KP,PPA,CrsPA
+2022-08-13,Matchweek 2,Home,D 0–0,Wolves,Fulham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-20,Matchweek 3,Away,L 0–1,Wolves,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-28,Matchweek 4,Home,D 1–1,Wolves,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-31,Matchweek 5,Away,D 0–0,Wolves,Bournemouth,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-09-03,Matchweek 6,Home,W 1–0,Wolves,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-09-17,Matchweek 8,Home,L 0–3,Wolves,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-01,Matchweek 9,Away,L 0–2,Wolves,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-08,Matchweek 10,Away,L 0–3,Wolves,Chelsea,Y,90,0,0,0,0,0,0,0,0,70,2,0,2,0.0,0.0,0.0,0,0,50,60,83.3,1,50,0,0,20,45,24,1,0,70,,0,,240,181,1,0,1,0,51,0,0.0,0,0,0
+2022-10-15,Matchweek 11,Home,W 1–0,Wolves,Nott'ham Forest,Y,90,0,0,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.1,0,0,50,56,89.3,4,43,0,0,9,30,38,1,1,69,,0,,217,125,0,0,1,0,46,0,0.0,1,1,0
+2022-11-12,Matchweek 16,Home,L 0–2,Wolves,Arsenal,Y,79,0,0,0,0,0,0,1,0,46,0,1,1,0.0,0.0,0.0,0,0,32,38,84.2,2,26,0,0,10,30,15,1,0,46,,0,,72,27,0,0,0,0,29,0,0.0,0,0,0
+2022-12-26,Matchweek 17,Away,W 2–1,Wolves,Everton,N,13,0,0,0,0,0,0,1,0,9,0,1,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,0,4,5,3,1,1,9,,0,,2,0,0,0,0,0,3,0,0.0,0,0,0
+2022-12-31,Matchweek 18,Home,L 0–1,Wolves,Manchester Utd,N,18,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,5,0,0,2,6,0,5,0,11,,0,,25,9,1,0,0,0,7,2,0.0,0,0,0
+2023-01-04,Matchweek 19,Away,D 1–1,Wolves,Aston Villa,N,12,0,0,0,0,0,0,0,0,6,0,0,2,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,2,5,1,0,0,6,,0,,14,9,0,0,0,0,1,0,0.0,0,0,0
+2023-01-14,Matchweek 20,Home,W 1–0,Wolves,West Ham,N,8,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,3,3,1,0,0,4,,0,,4,0,0,0,0,0,1,0,0.0,0,0,0
+2023-01-22,Matchweek 21,Away,L 0–3,Wolves,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
