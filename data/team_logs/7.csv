@@ -5,7 +5,6 @@ Date,Round,Venue,GF,GA,Opponent,xG,xGA
 2022-08-27,Matchweek 4,Away,2.0,4.0,Manchester City,0.1,2.2
 2022-08-30,Matchweek 5,Home,1.0,1.0,Brentford,1.0,1.4
 2022-09-03,Matchweek 6,Away,0.0,0.0,Newcastle Utd,1.0,2.8
-2022-09-17,Matchweek 8,Away,,,Brighton,,
 2022-10-01,Matchweek 9,Home,1.0,2.0,Chelsea,0.4,1.1
 2022-10-09,Matchweek 10,Home,2.0,1.0,Leeds United,1.1,1.0
 2022-10-15,Matchweek 11,Away,0.0,0.0,Leicester City,0.4,1.0
@@ -20,12 +19,13 @@ Date,Round,Venue,GF,GA,Opponent,xG,xGA
 2023-01-15,Matchweek 20,Away,0.0,1.0,Chelsea,0.7,1.5
 2023-01-18,Matchweek 7,Home,1.0,1.0,Manchester Utd,0.5,2.1
 2023-01-21,Matchweek 21,Home,0.0,0.0,Newcastle Utd,0.3,1.2
-2023-02-04,Matchweek 22,Away,,,Manchester Utd,,
-2023-02-11,Matchweek 23,Home,,,Brighton,,
-2023-02-18,Matchweek 24,Away,,,Brentford,,
+2023-02-04,Matchweek 22,Away,1.0,2.0,Manchester Utd,1.3,2.0
+2023-02-11,Matchweek 23,Home,1.0,1.0,Brighton,1.1,2.5
+2023-02-18,Matchweek 24,Away,1.0,1.0,Brentford,1.1,0.7
 2023-02-25,Matchweek 25,Home,,,Liverpool,,
 2023-03-04,Matchweek 26,Away,,,Aston Villa,,
 2023-03-11,Matchweek 27,Home,,,Manchester City,,
+2023-03-16,Matchweek 8,Away,,,Brighton,,
 2023-03-19,Matchweek 28,Away,,,Arsenal,,
 2023-04-01,Matchweek 29,Home,,,Leicester City,,
 2023-04-08,Matchweek 30,Away,,,Leeds United,,

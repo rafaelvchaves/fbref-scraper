@@ -19,10 +19,10 @@ Date,Round,Venue,GF,GA,Opponent,xG,xGA
 2023-01-14,Matchweek 20,Away,1.0,2.0,Manchester Utd,0.6,1.7
 2023-01-19,Matchweek 7,Home,4.0,2.0,Tottenham,2.3,0.8
 2023-01-22,Matchweek 21,Home,3.0,0.0,Wolves,2.8,0.8
-2023-02-05,Matchweek 22,Away,,,Tottenham,,
-2023-02-12,Matchweek 23,Home,,,Aston Villa,,
-2023-02-15,Matchweek 12,Away,,,Arsenal,,
-2023-02-18,Matchweek 24,Away,,,Nott'ham Forest,,
+2023-02-05,Matchweek 22,Away,0.0,1.0,Tottenham,1.3,1.4
+2023-02-12,Matchweek 23,Home,3.0,1.0,Aston Villa,3.6,0.3
+2023-02-15,Matchweek 12,Away,3.0,1.0,Arsenal,1.7,1.6
+2023-02-18,Matchweek 24,Away,1.0,1.0,Nott'ham Forest,2.5,1.0
 2023-02-25,Matchweek 25,Away,,,Bournemouth,,
 2023-03-04,Matchweek 26,Home,,,Newcastle Utd,,
 2023-03-11,Matchweek 27,Away,,,Crystal Palace,,

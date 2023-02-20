@@ -5,7 +5,6 @@ Date,Round,Venue,GF,GA,Opponent,xG,xGA
 2022-08-27,Matchweek 4,Home,1.0,1.0,Everton,2.1,1.1
 2022-08-30,Matchweek 5,Away,1.0,1.0,Crystal Palace,1.4,1.0
 2022-09-03,Matchweek 6,Home,5.0,2.0,Leeds United,2.3,1.7
-2022-09-10,Matchweek 7,Away,,,Southampton,,
 2022-09-18,Matchweek 8,Home,0.0,3.0,Arsenal,0.5,1.5
 2022-10-01,Matchweek 9,Away,0.0,0.0,Bournemouth,0.9,0.4
 2022-10-08,Matchweek 10,Away,1.0,5.0,Newcastle Utd,1.2,1.5
@@ -20,12 +19,13 @@ Date,Round,Venue,GF,GA,Opponent,xG,xGA
 2023-01-02,Matchweek 19,Home,3.0,1.0,Liverpool,1.7,2.0
 2023-01-14,Matchweek 20,Home,2.0,0.0,Bournemouth,1.4,0.6
 2023-01-22,Matchweek 21,Away,0.0,0.0,Leeds United,0.4,0.5
-2023-02-04,Matchweek 22,Home,,,Southampton,,
-2023-02-11,Matchweek 23,Away,,,Arsenal,,
-2023-02-18,Matchweek 24,Home,,,Crystal Palace,,
+2023-02-04,Matchweek 22,Home,3.0,0.0,Southampton,2.2,0.7
+2023-02-11,Matchweek 23,Away,1.0,1.0,Arsenal,2.0,1.6
+2023-02-18,Matchweek 24,Home,1.0,1.0,Crystal Palace,0.7,1.1
 2023-02-26,Matchweek 25,Away,,,Manchester Utd,,
 2023-03-06,Matchweek 26,Home,,,Fulham,,
 2023-03-11,Matchweek 27,Away,,,Everton,,
+2023-03-15,Matchweek 7,Away,,,Southampton,,
 2023-03-18,Matchweek 28,Home,,,Leicester City,,
 2023-04-01,Matchweek 29,Away,,,Brighton,,
 2023-04-08,Matchweek 30,Home,,,Newcastle Utd,,
