@@ -19,6 +19,9 @@ def fetch_player_stats(player, stats_type=['summary']):
     global calls
     name = player['web_name']
     fbref_id = player['fbref_id']
+    if fbref_id is None:
+        print(f'player {name} has no fbref id, skipping...')
+        return
     fpl_id = player['id']
     player_file = f'data/match_logs/{fpl_id}.csv'
     dfs = []

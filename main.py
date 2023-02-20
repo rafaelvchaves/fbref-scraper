@@ -33,11 +33,8 @@ for file in os.listdir(data_dir):
         continue
     dfs[player_id] = pd.read_csv(os.path.join(data_dir, file), na_values=[
         'On matchday squad, but did not play'])
-
-# stat_cols = ['Min', 'Gls', 'Ast', 'PK', 'PKatt', 'Sh', 'SoT', 'CrdY', 'CrdR', 'Touches', 'Tkl', 'Int', 'Blocks', 'xG', 'npxG', 'xAG', 'SCA',
-#              'GCA', 'Cmp', 'Att', 'Cmp%', 'Prog', 'Succ', 'Def Pen', 'Def 3rd', 'Mid 3rd', 'Att 3rd', 'Att Pen', 'Live', 'Succ%', 'Mis', 'Dis', 'Rec']
-stat_cols = ['Min', 'Sh', 'SoT', 'xG', 'npxG',
-             'xAG', 'SCA', 'GCA', 'Att 3rd', 'Att Pen', 'xA']
+stat_cols = ['Min', 'xG', 'npxG', 'xA', 'xAG',
+             'Att Pen', 'Sh', 'SoT', 'SCA', 'GCA']
 stats = pd.DataFrame(
     columns=['Name', 'Price', 'Team', 'Position', 'Games'] + stat_cols)
 
@@ -58,12 +55,6 @@ for player_id, data in dfs.items():
                                        >= start_date, stat_cols].mean()
 stats.fillna(0, inplace=True)
 stats['xGI'] = stats['xG'] + stats['xA']
-
-# stats_df = stats[stat_cols]
-# stats[stat_cols] = (stats_df - stats_df.min()) / \
-#     (stats_df.max() - stats_df.min())
-# stats['Test'] = stats['npxG'] + stats['xA'] + \
-#     stats['Sh'] + stats['Att Pen'] + stats['GCA']
 stats = stats.round(2)
 
 # export to Google sheets
@@ -72,6 +63,7 @@ gc = gspread.service_account()
 sh = gc.open_by_key(sheet_id)
 
 # player worksheet
+# player_ws = sh.add_worksheet(title=f'Players_{start_date}', rows=300, cols=30)
 player_ws = sh.worksheet('Players')
 player_ws.clear()
 player_ws.freeze(rows=1, cols=5)
@@ -104,7 +96,6 @@ for team_id, data in dfs.items():
     away_stats.loc[i, 'Team'] = team_info['name']
     away_stats.loc[i, stat_cols] = data.loc[(data['Date']
                                              >= start_date) & (data['Venue'] == 'Away'), stat_cols].mean()
-
 
 # team home worksheet
 team_home_ws = sh.worksheet('Teams (Home)')
